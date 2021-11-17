@@ -1,2 +1,2 @@
 # VBtippingcalc
-Visual Basic Project
+Visual Basic Project For Tipping. Nothing Much
